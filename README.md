@@ -1,9 +1,7 @@
 # <span style="color:#1E90FF;">**MusicAnalyser**</span>
 
 **SQL Project to Analyze Online Music Store Data**
-
-This project is designed for beginners and will guide you through analyzing the music playlist database. You'll use SQL to examine the dataset and help the store understand its business growth by answering simple questions.
-
+This project is tailored for individuals new to data analysis, providing a comprehensive introduction to working with a music playlist database. Through hands-on SQL exercises, you will explore and analyze the dataset to uncover insights that can assist the music store in understanding its business growth. By addressing fundamental queries, you'll gain practical experience in data examination and contribute to meaningful business intelligence.
 
 
 ## <span style="color:#32CD32;">**Database and Tools**</span>
