@@ -4,7 +4,7 @@
 
 This project is designed for beginners and will guide you through analyzing the music playlist database. You'll use SQL to examine the dataset and help the store understand its business growth by answering simple questions.
 
-> **Complete project explained on YouTube: [Watch Now](https://www.youtube.com/watch?v=VFIuIjswMKM)**
+
 
 ## <span style="color:#32CD32;">**Database and Tools**</span>
 
